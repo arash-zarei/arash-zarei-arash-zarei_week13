@@ -1,0 +1,7 @@
+.content {
+  padding: 12px 24px;
+}
+
+.content>h2 {
+  margin-bottom: 18px;
+}
